@@ -15,7 +15,7 @@ Space Complexity: O(1)
 Sort the array, iterate the array keeping two pointers left and right, and checking the sum of indices
 and moving towards the middle of the array accordingly.
 Time Complexity: O(nLogn)
-Space Compexity: O(1)
+Space Complexity: O(n)
 
 ###Approach 3
 Iterate array only once and story the difference of the number with the target in a hashmap as key and 
